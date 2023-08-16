@@ -1,0 +1,18 @@
+familiarizing packages:
+      1. ast:-
+           *literal_eval
+           *parse
+           *dump
+           *walk
+      2. logging
+      3. base64:
+           *encode
+           *decode
+      4. urllib:
+           *request
+           *response
+           *parse
+      5. js2py
+      6. os
+      7. xml  
+      8. lxml
