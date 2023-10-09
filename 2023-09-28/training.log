@@ -1,1 +1,5 @@
 go through the topic json and cvs
+csv functions:
+          . register_dialect
+          . dictReader
+          . dictWriter

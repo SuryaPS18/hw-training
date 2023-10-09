@@ -1,1 +1,6 @@
 revise the topics
+go through some parameters of json.dumps:-
+                               1. indent
+                               2. separators
+                               3. sort-keys
+                               4. skipkeys

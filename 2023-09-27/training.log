@@ -1,1 +1,9 @@
 preparing for the topic json and csv
+json functions:
+          1. loads
+          2. dumps
+          3. load
+          4. dump
+csv functions:
+          1. reader
+          2. writer
